@@ -1,0 +1,189 @@
+    /* estilo CSS */
+    #form-cadastro {
+      display: none;/* Esconder o formulario de cadastro por padrão */
+    }
+        /* Estilo CSS para a página de cadastro */
+
+#form-cadastro {
+  display: none;
+  margin: 0 auto;
+  width: 50%;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+#form-cadastro h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#form-cadastro label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#form-cadastro input[type="text"],
+#form-cadastro input[type="email"],
+#form-cadastro input[type="password"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #333;
+  border-radius: 5px;
+}
+
+#form-cadastro input[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#form-cadastro input[type="submit"]:hover {
+  background-color: #666;
+}
+/* Estilo CSS para a página de login */
+
+#tela-login {
+  margin: 0 auto;
+  width: 50%;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+#tela-login h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#tela-login form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#tela-login form input[type="email"],
+#tela-login form input[type="password"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #333;
+  border-radius: 5px;
+}
+
+#tela-login form input[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#tela-login form input[type="submit"]:hover {
+  background-color: #666;
+}
+
+#form-cadastro {
+  display: none;
+  margin: 0 auto;
+  width: 50%;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+#form-cadastro h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#form-cadastro label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#form-cadastro input[type="text"],
+#form-cadastro input[type="email"],
+#form-cadastro input[type="password"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 2px solid #333;
+  border-radius: 5px;
+}
+
+#form-cadastro input[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#form-cadastro input[type="password"],
+#form-cadastro input[type="email"],
+#form-cadastro input[type="text"] {
+display: block;
+width: 100%;
+padding: 8px;
+border-radius: 4px;
+border: 1px solid #ccc;
+margin-bottom: 10px;
+font-size: 16px;
+box-sizing: border-box;
+}
+
+#form-cadastro input[type="submit"] {
+background-color: #4CAF50;
+color: white;
+padding: 14px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+font-size: 16px;
+}
+
+#form-cadastro input[type="submit"]:hover {
+background-color: #45a049;
+}
+
+/* Estilo do formulario de Login */
+#tela-login form input[type="email"],
+#tela-login form input[type="password"] {
+display: block;
+width: 100%;
+padding: 8px;
+border-radius: 4px;
+border: 1px solid #ccc;
+margin-bottom: 10px;
+font-size: 16px;
+box-sizing: border-box;
+}
+
+#tela-login form input[type="submit"] {
+background-color: #4CAF50;
+color: white;
+padding: 14px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+font-size: 16px;
+}
+
+#tela-login form input[type="submit"]:hover {
+background-color: #45a049;
+}
